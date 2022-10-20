@@ -1,6 +1,6 @@
 # batteryFinderProgram
 Recursion Project2 Battery Finder Program
-[](https://recursionist.io)
+(https://recursionist.io)
 
 ## URL
 https://pimon0807.github.io/batteryFinderProgram/
