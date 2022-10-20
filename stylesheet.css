@@ -1,0 +1,12 @@
+/* ここからCSSを記述してください。 */
+.titleFont{
+    color: white;
+    text-align: center;
+}
+.cardStyle{
+    display: flex;
+    justify-content: space-between;
+    border: solid; color: black; size: 0.5px;
+    background-color: white;
+    padding: 1em;
+}
